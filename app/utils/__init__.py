@@ -1,0 +1,1 @@
+from app.utils.seed_data import seed_database
